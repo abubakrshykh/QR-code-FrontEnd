@@ -1,0 +1,68 @@
+.main-box{
+    background-color: hsl(212, 45%, 89%);
+    width:85%;
+    margin: 60px auto 100px auto;
+    padding-bottom: 4%;
+    box-shadow: 3px 3px 6px 6px rgb(200, 203, 211);
+    position: relative;
+    
+}
+.middle-box{
+    background-color: rgb(255, 255, 255);
+    width: 24%;
+
+    padding-bottom: 30px;
+    position: absolute;
+    left:38%;
+    top:8%;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.last-box{
+
+    width: 88%;
+    border-radius: 10px;
+    margin: 10px auto 10px auto;
+    display: flex;
+    justify-content: center;
+
+}
+img{
+    width: 100%;
+    height: 100%;
+    margin-top: 6px;
+    border-radius: 10px;
+}
+h2{
+    font-size: 132%;
+    width: 83%;
+    color: hsl(218, 44%, 22%);
+    margin-left: 25px;
+    line-height: 30px;
+    font-family: 'Outfit',sans-serif;
+
+}
+h3{
+    font-family: 'Outfit ',sans-serif;
+    color: hsl(220, 15%, 55%);
+    width: 90%;
+    margin: 25px 15px auto 15px;
+    font-weight: 350;
+    font-size: 14px;
+
+}
+body{
+    background-color: rgb(91, 94, 106);
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+.para{
+text-align: center;
+font-family: 'Outfit',sans-serif;
+padding-top: 42%;
+font-size: 10px;
+
+}
